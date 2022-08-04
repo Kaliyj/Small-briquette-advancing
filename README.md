@@ -1,5 +1,5 @@
 # Small-briquette-advancing
-The educational administration management system management system
+The educational administration management system
 树宁学院是今年8月份刚成立的学校，现需要一个教务系统来管理9月新加入的教师与学生信息，主要完成对教师的在校状态管理，以及教师对学生的出入学和成绩的管理。
         要求1：需要一个超级管理员（校长）用于管理教师的信息（添加（可批量），删除（可复原），重置密码）
 	        超级管理员信息：账号（唯一），密码（输入不可见、加密）。
